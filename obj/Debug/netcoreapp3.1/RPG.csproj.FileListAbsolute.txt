@@ -1,0 +1,13 @@
+C:\Users\danie\Documents\GitHub\RPG\obj\Debug\netcoreapp3.1\RPG.csprojAssemblyReference.cache
+C:\Users\danie\Documents\GitHub\RPG\obj\Debug\netcoreapp3.1\RPG.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\GitHub\RPG\obj\Debug\netcoreapp3.1\RPG.AssemblyInfo.cs
+C:\Users\danie\Documents\GitHub\RPG\obj\Debug\netcoreapp3.1\RPG.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\GitHub\RPG\bin\Debug\netcoreapp3.1\RPG.exe
+C:\Users\danie\Documents\GitHub\RPG\bin\Debug\netcoreapp3.1\RPG.deps.json
+C:\Users\danie\Documents\GitHub\RPG\bin\Debug\netcoreapp3.1\RPG.runtimeconfig.json
+C:\Users\danie\Documents\GitHub\RPG\bin\Debug\netcoreapp3.1\RPG.runtimeconfig.dev.json
+C:\Users\danie\Documents\GitHub\RPG\bin\Debug\netcoreapp3.1\RPG.dll
+C:\Users\danie\Documents\GitHub\RPG\bin\Debug\netcoreapp3.1\RPG.pdb
+C:\Users\danie\Documents\GitHub\RPG\obj\Debug\netcoreapp3.1\RPG.dll
+C:\Users\danie\Documents\GitHub\RPG\obj\Debug\netcoreapp3.1\RPG.pdb
+C:\Users\danie\Documents\GitHub\RPG\obj\Debug\netcoreapp3.1\RPG.genruntimeconfig.cache
